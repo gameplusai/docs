@@ -22,6 +22,7 @@ Currently LLM requires a large amount of computer power to run. By utilizing our
 Currently there are very few Open-Source Data and AI tools. Most services go through the big three models, GPT, Deepmind, and Llmaa. While large companies are creating their own applications, smaller developers do not have the resources and knowledge to create their own proprietary tools.
 
 # Our Solution
+![image](https://github.com/user-attachments/assets/8fde257d-cbe7-4467-9380-90f68b65411a)
 
 
 ## AI Asset Generation Engine & Attribution Module

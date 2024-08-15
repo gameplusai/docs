@@ -20,7 +20,8 @@ Currently LLM requires a large amount of computer power to run. By utilizing our
 ## Privatization of Data and AI Tools
 
 Currently there are very few Open-Source Data and AI tools. Most services go through the big three models, GPT, Deepmind, and Llmaa. While large companies are creating their own applications, smaller developers do not have the resources and knowledge to create their own proprietary tools.
-#Our Solution
+
+# Our Solution
 
 
 ## AI Asset Generation Engine & Attribution Module

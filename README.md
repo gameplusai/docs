@@ -1,17 +1,24 @@
 #Who we are 
+
 Game Plus is a revolutionary Gaming and AI blockchain tailored specifically for the gaming industry. By leveraging locally hosted LLMs, and community driven fine-tuned AI, Game Plus empowers developers to create highly interactive and intelligent games. 
 We will provide vital AI industry tools such as asset and dialog generation engine, developer SDK, AI training data accessibility, and gaming data analysis and optimization.
 The protocol is designed to serve core gaming infrastructure needs and create a decentralized AI-powered content generation engine for gaming.
 #Our Mission
-Game Plus is pioneering the development of a decentralized AI protocol for the gaming industry. Our platform addresses the current gaps in existing protocols, driving innovation and growth in the on-chain gaming sector. By leveraging cutting-edge blockchain technology, we empower game developers to focus on creating immersive gaming experiences while we handle the complexities of decentralized Infrastructure and AI tools, incentivized data sharing, NFT asset management, wallet abstraction, and on-chain data analytics..
+
+Game Plus is pioneering the development of a decentralized AI protocol for the gaming industry. Our platform addresses the current gaps in existing protocols, driving innovation and growth in the on-chain gaming sector. By leveraging cutting-edge blockchain technology, we empower game developers to focus on creating immersive gaming experiences while we handle the complexities of decentralized Infrastructure and AI tools, incentivized data sharing, NFT asset management, wallet abstraction, and on-chain data analytics.
 #Limitations of Current Gaming AI
+
 ##Lack of Asset Generation tools
+
 Currently, there are no generative AI services that offer asset generation such as UVs and Mesh for Blender and Unity. Most generative AI are text or pictures, not focusing on real gaming assets such as 2D/3D illustration and models, animations, prototyping and automated bug testing. 
 ##Data Silo and Lack of User Data Protection
+
 Current data from gaming and AI companies are centralized and hidden and users do not know where their data is going and what data is pulled from current AI tools. The fragmentation of data across various platforms leads to a lack of data sharing. This greatly impacts the quality and efficiency of AI models. 
 ##Large costs for Computing and Fine-Tuning
+
 Currently LLM requires a large amount of computer power to run. By utilizing our own nodes along with decentralizing computing power from users, we are able to cut the cost of hosting our LLM while providing rewards to contributors.
 ##Privatization of Data and AI Tools
+
 Currently there are very few Open-Source Data and AI tools. Most services go through the big three models, GPT, Deepmind, and Llmaa. While large companies are creating their own applications, smaller developers do not have the resources and knowledge to create their own proprietary tools.
 #Our Solution
 

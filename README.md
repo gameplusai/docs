@@ -36,4 +36,5 @@ By using data from native gamers and game developers on our chain, we are able t
 
 ## Module Layers
 Game Plus will be a modular Blockchain which enhances scalability, flexibility, and efficiency by allowing each layer to be developed and upgraded independently. The Infrastructure Layer provides the foundational elements such as virtual machines and network nodes. Data Availability Layer ensures access to essential data, including LLM training data, and user identity modules. The Trust Layer establishes the security and integrity of the blockchain through consensus algorithms and finality services. The Execution Layer handles the actual processing of transactions, execution of smart contracts, and provides a gaming SDK and API for developers. We will also have an Incentive Layer for Governance and Proof mechanisms. At the top, the Application Layer encompasses the end-user applications, including decentralized applications (DApps), in-house and third-party games, and user interfaces. 
-[Image]
+![image](https://github.com/user-attachments/assets/ff3e3748-a5be-4b96-85e3-3a6dec429124)
+
